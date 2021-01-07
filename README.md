@@ -3,6 +3,9 @@ JSS Asset Tag Importer - Get those asset tags into your Casper JSS. For Mobile D
 ## JSS Asset Tag importer - v.3
 ## Authored by Brad Schmidt @bradschm on 12/29/2015
 ## Updated formating and issue with detection of smart group on 07/01/2016
+## Updated by Nico Bray @nicobray on 07th Jan 2021
+## Note: two versions, jss-assettag-importer-py3.9 finds and updates devices without any Asset tags already in JAMF JSS
+## Second version: jss-assettag-importer-py3.9-overwrite will update any assets found in CSV. Non CSV devices will be left.
 
 ### DISCLAIMER
 I am not providing any kind of warranty. This has been thoroughly tested in my environments but I cannot guarantee that this script is not without bugs.
